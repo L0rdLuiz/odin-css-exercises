@@ -1,0 +1,20 @@
+.paragrafo {
+    background-color: lightpink;
+    font-family: Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.paragrafo.legal{
+    font-size: 24px;
+}
+
+#div2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#div4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
